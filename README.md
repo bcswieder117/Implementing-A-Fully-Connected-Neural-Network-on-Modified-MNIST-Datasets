@@ -55,7 +55,7 @@ This repository contains:
 
 ##  Acknoledgements
 
-Built and documented with the aid of AI tools (e.g., ChatGPT) to accelerate prototyping and reinforce best practices.
+Built and documented with the assistance of AI tools (e.g., ChatGPT) to accelerate development and reinforce engineering best practices.
 
 ---
 

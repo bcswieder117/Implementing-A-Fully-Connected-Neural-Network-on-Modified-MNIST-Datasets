@@ -1,4 +1,4 @@
-#  Fully Connected Neural Network on Modified MNIST Datasets
+#  Implementing A Fully Connected Neural Network on Modified MNIST Datasets
 
 This project implements a **PyTorch-based fully connected neural network (FCNN)** designed to tackle several variations of the MNIST handwritten digit dataset. With no convolutional layers, this network still achieves **over 98% accuracy** on standard MNIST and performs impressively on custom dataset variants.
 

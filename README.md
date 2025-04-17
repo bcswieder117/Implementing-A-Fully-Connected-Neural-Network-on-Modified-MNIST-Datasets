@@ -53,9 +53,9 @@ This repository contains:
 
 ---
 
-##  Citation
+##  Acknoledgements
 
-If you use this work or learn from it, consider citing the report or notebook and linking to this repository.
+Built and documented with the aid of AI tools (e.g., ChatGPT) to accelerate prototyping and reinforce best practices.
 
 ---
 

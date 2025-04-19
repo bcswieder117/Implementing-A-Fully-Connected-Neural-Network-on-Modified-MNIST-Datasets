@@ -36,7 +36,7 @@ This repository contains:
 > These figures are referenced in the report and generated during training.  
 > You can view them directly in this repository:
 
-| Dataset | Results | Training Curves |
+| Dataset | Training Curves | Results |
 |--------|---------|------------------|
 | Dataset 1 | ![D1 Results](Project%201_Dataset%201%20Results.png) | ![D1 Training](Project%201_Dataset%201%20Training.png) |
 | Dataset 2 | ![D2 Results](Project%201_Dataset%202%20Results.png) | ![D2 Training](Project%201_Dataset%202%20Training.png) |
